@@ -11,3 +11,5 @@ git add .
 git commit -m "Vasata poraka za commit"
 
 git push 
+
+git pull 
