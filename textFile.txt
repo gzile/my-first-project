@@ -3,3 +3,11 @@ Hello
 git config --global user.name "gzile"
 
 git config --global user.email "gocezile@gmail.com"
+
+git status
+
+git add .
+
+git commit -m "Vasata poraka za commit"
+
+git push 
